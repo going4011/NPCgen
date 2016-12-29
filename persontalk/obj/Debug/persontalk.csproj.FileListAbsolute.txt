@@ -1,0 +1,24 @@
+c:\users\christina\documents\visual studio 2015\Projects\persontalk\persontalk\bin\Debug\persontalk.exe.config
+c:\users\christina\documents\visual studio 2015\Projects\persontalk\persontalk\bin\Debug\persontalk.exe
+c:\users\christina\documents\visual studio 2015\Projects\persontalk\persontalk\bin\Debug\persontalk.pdb
+c:\users\christina\documents\visual studio 2015\Projects\persontalk\persontalk\obj\Debug\persontalk.exe
+c:\users\christina\documents\visual studio 2015\Projects\persontalk\persontalk\obj\Debug\persontalk.pdb
+c:\users\christina\documents\visual studio 2015\Projects\persontalk\persontalk\obj\Debug\persontalk.csprojResolveAssemblyReference.cache
+D:\OneDrive\persontalk\persontalk\bin\Debug\persontalk.exe.config
+D:\OneDrive\persontalk\persontalk\obj\Debug\persontalk.exe
+D:\OneDrive\persontalk\persontalk\obj\Debug\persontalk.pdb
+D:\OneDrive\persontalk\persontalk\bin\Debug\persontalk.exe
+D:\OneDrive\persontalk\persontalk\bin\Debug\persontalk.pdb
+D:\OneDrive\persontalk\persontalk\obj\Debug\persontalk.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\persontalk\persontalk\bin\Debug\persontalk.exe.config
+D:\Visual Studio 2015\persontalk\persontalk\obj\Debug\persontalk.exe
+D:\Visual Studio 2015\persontalk\persontalk\obj\Debug\persontalk.pdb
+C:\Users\cmmur\repos\npcgen\persontalk\bin\Debug\persontalk.exe.config
+C:\Users\cmmur\repos\npcgen\persontalk\obj\Debug\persontalk.exe
+C:\Users\cmmur\repos\npcgen\persontalk\obj\Debug\persontalk.pdb
+C:\Users\cmmur\repos\npcgen\persontalk\bin\Debug\persontalk.exe
+C:\Users\cmmur\repos\npcgen\persontalk\bin\Debug\persontalk.pdb
+C:\Users\cmmur\repos\npcgen\persontalk\obj\Debug\persontalk.csprojResolveAssemblyReference.cache
+C:\Users\cmmur\Documents\GitHub\NPCgen\persontalk\bin\Debug\persontalk.exe.config
+C:\Users\cmmur\Documents\GitHub\NPCgen\persontalk\obj\Debug\persontalk.exe
+C:\Users\cmmur\Documents\GitHub\NPCgen\persontalk\obj\Debug\persontalk.pdb
